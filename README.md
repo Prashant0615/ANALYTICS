@@ -103,11 +103,17 @@ The notebook executes the following steps:
 * Top-selling makes, models, and best-performing conditions
 * Exploratory visuals and pattern recognition
 * Foundation laid for building predictive models
+   ## Plotted Scatter Plot of Car Age vs Selling Price
 ![image](https://github.com/user-attachments/assets/3451def3-f211-458f-ad72-4b51b2b63c55)
+
 ![image](https://github.com/user-attachments/assets/049740c6-ead9-4a56-b239-2dec82ffb90d)
+   ##  Computed and Visualized the Correlation Matrix Using a Heatmap
 ![image](https://github.com/user-attachments/assets/a4458388-09be-44bc-8198-cdb8d2760799)
+   ## Plotted the Distribution of Odometer Readings
 ![image](https://github.com/user-attachments/assets/5ca46311-36bd-4acb-9d66-256f79b29b79)
+   ## Plotted Average Selling Price Trends by Year
 ![image](https://github.com/user-attachments/assets/f54c3cf4-2504-4240-aa31-8f9b0abad5fa)
+   ## Visualized Vehicle Condition Distribution Using a Pie Chart
 ![image](https://github.com/user-attachments/assets/a6d05844-1896-4ca8-89bd-9ec4c5f782aa)
 
   
