@@ -60,16 +60,25 @@ ________________________________________
 ________________________________________
 ## 📂 Folder Structure
 Smart-Sales-Insights/
+
 │
-├── data/                   # Raw and cleaned CSV files
+
+├── data/ # Raw and cleaned CSV files
+
 ├── notebooks/              # EDA and transformation notebooks
+
 ├── README.md               # Project documentation
+
 ________________________________________
 ## 📈 Outcomes
 •	Cleaned, analysis-ready dataset
+
 •	Identified top-selling makes, models, and conditions
+
 •	Initial visual insights and pattern detection
+
 •	Prepared data for advanced analytics (e.g., price prediction models)
+
 ________________________________________
 ## 🚀 Future Work
 •	Build regression models to predict sellingprice
