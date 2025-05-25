@@ -27,6 +27,8 @@ Smart-Sales-Insights/
 
 │   └── SmartSalesInsights.ipynb # Main exploratory and transformation notebook
 
+└── LICENSE
+
 └── README.md                   # This file
 
 
