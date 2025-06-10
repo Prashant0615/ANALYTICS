@@ -18,10 +18,13 @@ A comprehensive, modular data analysis pipeline for a car sales dataset that per
 
 
 Smart-Sales-Insights/
+├── Dashboard/
+
+│   └── ANALYTICS.pyix
 
 ├── data/
 
-│   └── car_sales.csv           # Input car sales dataset
+│   └── Car_dataset.csv           # Input car sales dataset
 
 ├── notebooks/
 
@@ -55,22 +58,20 @@ The notebook executes the following steps:
 
 | Feature      | Description                                   |
 | ------------ | --------------------------------------------- |
-| year         | Year of manufacture                           |
-| make         | Car manufacturer (e.g., Toyota, Ford)         |
-| model        | Specific model of the car                     |
-| trim         | Trim level or version (e.g., Sport, SE)       |
-| body         | Body type (e.g., SUV, Sedan)                  |
-| transmission | Type of transmission (Automatic, Manual)      |
-| vin          | Vehicle Identification Number (unique ID)     |
-| state        | U.S. state where the car was sold             |
-| condition    | Condition score of the vehicle (numeric)      |
-| odometer     | Mileage at the time of sale                   |
-| color        | Exterior color                                |
-| interior     | Interior type or color                        |
-| seller       | Dealership or seller name                     |
-| mmr          | Manheim Market Report price (estimated value) |
-| sellingprice | Actual sale price of the vehicle              |
-| saledate     | Date of the sale                              |
+|year          | Year of manufacture                           |
+|make          | Car manufacturer (e.g., Toyota, Ford)         |
+|model	      | Specific model of the car                     |
+|transmission	| Type of transmission (Automatic, Manual)      |
+|mileage	      | Odometer reading (total distance traveled)    |
+|fuelType	   | Type of fuel (Petrol, Diesel, Electric, etc.) |
+|tax           | Tax amount applicable to the vehicle          |
+|engineSize    | Engine displacement size (in liters)          |
+|price	      | Listed price of the vehicle                   |
+|image	      | Image of the specific car                     |
+|logo.png	   | Manufacturer's logo image                     |
+|month	      | Month of sale or record                       |
+|quantity	   | Number of vehicles (inventory or sales)       |
+|pct	         | Percentage (context: market share, etc.)      |
 
 ---
 
