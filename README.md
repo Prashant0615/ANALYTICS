@@ -130,6 +130,51 @@ The notebook executes the following steps:
 
 ---
 
+
+## ✨ Aesthetics & Clarity
+Design Choices:
+
+Color Scheme: Sequential blues/reds for quantitative data, categorical for products
+Typography: Open Sans font family for readability
+Layout: Grid-based dashboard with consistent margins
+Responsive Design: Adapts to desktop/tablet viewing
+Best Practices Implemented: 
+* ✔️ Axis labels with units
+* ✔️ Legend positioning top-right
+* ✔️ Contrast ratio >4.5:1 for accessibility
+* ✔️ Mobile-optimized figure sizes
+
+  ---
+## 📊🖱 Interactive Features
+This dashboard provides a comprehensive overview of car sales data, combining key performance indicators, brand analysis, and sales trends to deliver actionable insights:
+
+* Brand Logos: Instantly identifies the brands under analysis, enhancing user engagement.
+
+* Units Sold, Total Revenue, Variants: Present high-level metrics that summarize the scale and diversity of the dataset.
+
+* Brand Market Value (Bar Chart): Visualizes which brands generate the most revenue, helping identify market leaders.
+
+* Market Share (Pie Chart): Shows the competitive distribution of sales or revenue among brands, revealing market dominance and competition.
+
+* Images: Offers a visual connection to the products, making the data more relatable.
+
+* Top 5 Models for Revenue (Bar Chart): Highlights the most profitable models, guiding focus toward best-sellers.
+
+* Sales Trend (Line Chart): Tracks sales performance over time, uncovering patterns and informing strategic decisions.
+
+* Each visualization is designed to answer specific business questions:
+
+* Which brands and models are most valuable?
+
+* How is the market share distributed?
+
+* What are the overall sales trends?
+
+* Which products should be prioritized?
+
+* These insights empower stakeholders to make data-driven decisions in sales, marketing, and inventory management.
+
+
 ## 📝 Author
 
 **Prashant Kumar**
